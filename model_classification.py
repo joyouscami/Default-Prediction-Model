@@ -1,7 +1,7 @@
 from google.cloud import bigquery
 
 # Use raw string for the file path
-key_path = r"C:\Phoenix Portfolio\phoenix-portfolio-461608-e794abe0cf71.json"
+key_path = r"C:\Advanced Analytics\JSON KEY\master-charmer-472608-g7-5a81523269bb.json"
 
 # Initialize the BigQuery client
 client = bigquery.Client.from_service_account_json(key_path)
