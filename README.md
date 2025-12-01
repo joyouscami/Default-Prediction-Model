@@ -81,7 +81,7 @@ To convert raw financial behavior data into a **binary default risk classificati
 
 ---
 
-# 🛠 1. Data Extraction
+# 1. Data Extraction
 
 A secure service account key is used to initialize a BigQuery client:
 
