@@ -198,7 +198,7 @@ The model typically achieves:
 
 ---
 
-# 📈 8. Possible Improvements
+# 8. Possible Improvements
 
 Future enhancements to strengthen predictive power:
 
@@ -221,7 +221,7 @@ Future enhancements to strengthen predictive power:
 
 ---
 
-# 📦 9. How to Run This Project
+# 9. How to Run This Project
 
 ### **1. Clone the repository**
 
