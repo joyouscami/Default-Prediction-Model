@@ -189,7 +189,7 @@ The model typically achieves:
 
 ---
 
-# ⚠️ 7. Limitations
+# 7. Limitations
 
 * **Imbalanced dataset** (~21% default rate)
 * **PAY_x encoded as -2, -1, 0…8** may require normalization or restructuring
@@ -252,7 +252,7 @@ jupyter notebook credit_default_model.ipynb
 
 ---
 
-# 🤝 Contributions
+# Contributions
 
 You're welcome to contribute via pull requests—whether improvements in:
 
