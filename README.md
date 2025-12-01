@@ -1,4 +1,4 @@
-# 📘 Credit Card Default Prediction Model
+# Credit Card Default Prediction Model
 
 ### *Building a Machine Learning Pipeline for Financial Risk Classification using BigQuery + Python*
 
@@ -54,7 +54,7 @@ Total records processed in this notebook: **2,965 rows** (after the `LIMIT 10000
 
 ---
 
-## 🔑 Goal
+## Goal
 
 To convert raw financial behavior data into a **binary default risk classification**, enabling actionable insights such as:
 
