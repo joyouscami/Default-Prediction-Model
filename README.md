@@ -210,7 +210,7 @@ Future enhancements to strengthen predictive power:
 
 ### 🔹 Modeling
 
-* Train alternative models (XGBoost, Random Forest, ANN)
+* Train alternative models (Random Forest, ANN)
 * Handle class imbalance using SMOTE or focal loss
 
 ### 🔹 Deployment
@@ -226,8 +226,8 @@ Future enhancements to strengthen predictive power:
 ### **1. Clone the repository**
 
 ```bash
-git clone https://github.com/<joyouscami>/credit-default-model.git
-cd credit-default-model
+git clone https://github.com/<joyouscami>/Default-Prediction-Model.git
+cd Default-Prediction-Model
 ```
 
 ### **2. Install dependencies**
