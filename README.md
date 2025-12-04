@@ -226,7 +226,7 @@ Future enhancements to strengthen predictive power:
 ### **1. Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/credit-default-model.git
+git clone https://github.com/<joyouscami>/credit-default-model.git
 cd credit-default-model
 ```
 
