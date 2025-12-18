@@ -17,16 +17,16 @@ The primary objective is to **predict whether a customer will default on their n
 * Reduce **portfolio losses**
 
 The notebook covers:
-✔ Data extraction via **BigQuery Python Client**
-✔ Data exploration & cleaning
-✔ Feature understanding
-✔ Exploratory Data Analysis (EDA)
-✔ Preparing the target variable
-✔ Model interpretation (BigQuery ML predictions loaded into Python)
+- Data extraction via **BigQuery Python Client**
+- Data exploration & cleaning
+- Feature understanding
+- Exploratory Data Analysis (EDA)
+- Preparing the target variable
+- Model interpretation (BigQuery ML predictions loaded into Python)
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 
 The dataset contains **10,000 customer records**, each with demographic, credit, bill statement, and payment information.
 
@@ -38,7 +38,7 @@ id | limit_balance | sex | education_level | marital_status | age | pay_0 ... pa
 
 Total records processed in this notebook: **2,965 rows** (after the `LIMIT 10000` constraint and returned BigQuery partition).
 
-### 🔧 Key Features
+### Key Features
 
 | Feature                                | Description                                                   |
 | -------------------------------------- | ------------------------------------------------------------- |
@@ -124,9 +124,9 @@ Duplicate rows: 0
 # 3. Exploratory Data Analysis (EDA)
 
 Visualizations include:
-📌 Default rate by **sex**
-📌 Default rate by **education level**
-📌 Default rate by **marital status**
+- Default rate by **sex**
+- Default rate by **education level**
+- Default rate by **marital status**
 
 Example:
 
@@ -158,9 +158,9 @@ def clean_binary_column(val):
 ```
 
 This ensures the target column is:
-✅ Clean
-✅ Integer (0 or 1)
-✅ Consistent for modeling
+- Clean
+- Integer (0 or 1)
+- Consistent for modeling
 
 ---
 
